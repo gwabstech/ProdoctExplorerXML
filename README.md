@@ -29,7 +29,7 @@ Follow these steps to clone and run the project on your local machine:
 1. **Clone the Repository**:
     - Open a terminal and run:
       ```bash
-      git clone https://github.com/gwabstech/ProductExplorerAppXML.git
+      git clone https://github.com/gwabstech/ProdoctExplorerXML.git
       ```
     - 
 
